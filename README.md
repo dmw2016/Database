@@ -1,5 +1,6 @@
 # Knowledge
-20171206\n
+20171206
+
 The Fellowship Of The Ring.（护戒队的远征）
 
 The Two Towers.（双塔奇谋）
